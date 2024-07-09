@@ -9,11 +9,12 @@ I am a current Lieutentant with my local police department. I am in the process 
 My love for investigations, during my time as a detective, and my interest in technology has lead me down the path of cybersecurity. I plan to continue learning and break into the field of cybersecurity. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Control and complian Checklist                | <a href="https://google.com">Detection Lab</a>|
+| Control and complian Checklist                | <a href="https://github.com/jmr0612/Control-and-Compliance-Checklist">Control and Compliance Checklist</a>|
 
 ## Projects
-- Security Audit
+- Control and Compliance Checklist
+
