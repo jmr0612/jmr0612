@@ -1,3 +1,19 @@
-- Hi, I’m Julian Ramos.
-- I am a highly motivated cybersecurity student with a passion for helping others.I use these values, my training in cybersecurity, and my experience in investigative work to find the root cause of a security incident, to further safeguard the company’s sensitive information. 
+# Hello, I'm Julian
+<a href="www.linkedin.com/in/julian-ramos-5a59ba127"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+
+I am a current Lieutentant with my local police department. I am in the process of making a switch in careers. I am currently working on the Google Cybersecurity Professional Certificate. I look forward to continue this journey in tech. 
+
+## Objective
+
+My love for investigations, during my time as a detective, and my interest in technology has lead me down the path of cybersecurity. I plan to continue learning and break into the field of cybersecurity. 
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Control and complian Checklist                | <a href="https://google.com">Detection Lab</a>|
+
+## Projects
+- Security Audit
