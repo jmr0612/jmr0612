@@ -13,7 +13,7 @@ My love for investigations, during my time as a detective, and my interest in te
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Control and complian Checklist                | <a href="https://github.com/jmr0612/Control-and-Compliance-Checklist">Control and Compliance Checklist</a>|
+| Control and compliance Checklist                | <a href="https://github.com/jmr0612/Control-and-Compliance-Checklist">Control and Compliance Checklist</a>|
 
 ## Projects
 - <a href="https://github.com/jmr0612/Control-and-Compliance-Checklist">Control and Compliance Checklist</a>
